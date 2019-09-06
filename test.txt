@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world sonia naidu. i am in pune
+=======
+hello world sonia naidu i am 29
+>>>>>>> 4e126726c73b24510af2a1e3ca53fc70f7d9da4d
